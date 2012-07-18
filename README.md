@@ -37,4 +37,4 @@ Our IT team is looking for bright, passionate Ruby developer who is looking for 
 
 ## Interested?
 
-Please contact me - Ciaran - `carcher (at) fusioneer.com` with some info about yourself and we'll take it from there. 
+Please contact me - Stu - `sgray (at) fusioneer.com` with some info about yourself and we'll take it from there. 
